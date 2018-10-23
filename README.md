@@ -1,5 +1,5 @@
 # Machine_Learning
-Projects when taking Machine Learning in Spring 2018
+Projects when took Machine Learning in Spring 2018
 
 1.K-Cluster(matlab)
 
